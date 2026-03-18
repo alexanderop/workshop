@@ -1,0 +1,23 @@
+{
+  "skill_name": "vue-ai-assistant",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Based on Alex Opalic's writing, how should I structure SSR-safe Vue 3 composables? Summarize the source-backed guidance first, then add any general Vue advice that fills the gaps.",
+      "expected_output": "The answer fetches alexop.dev guidance about Vue composables and SSR safety, clearly separates source-backed advice from supplemental general knowledge, and gives practical implementation recommendations.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I want to build an AI-powered translation feature in a Vue app that runs in the browser. Use Alex Opalic's content first, then recommend an implementation approach with tradeoffs.",
+      "expected_output": "The answer uses relevant alexop.dev content about browser AI and Vue, explains a practical architecture, and distinguishes sourced claims from broader implementation guidance.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Compare Alex Opalic's guidance on Vue testing and AI-assisted workflows. I want a practical plan for testing a Vue 3 app with Vitest while also using subagents or AI tools effectively.",
+      "expected_output": "The answer combines alexop.dev material about Vue testing and AI workflows, provides a concrete recommendation, and clearly labels any supplemental knowledge beyond the source.",
+      "files": []
+    }
+  ]
+}
